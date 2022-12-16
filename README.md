@@ -9,4 +9,4 @@
 [![Andrew's gitHub stats](https://github-readme-stats.vercel.app/api?username=andrewlimaza&show_icons=true&count_private=true)](https://github.com/andrewlimaza/github-readme-stats)
 
 ## Donate
-If you've used one of my free plugins and would like to donate to the upkeep of these free projects, I turn 🍕 into code - https://buymeacoffee.com/andrewlima
+If you've used one of my free plugins and would like to donate to the upkeep of these free projects, I turn ☕ into code - https://buymeacoffee.com/andrewlima
